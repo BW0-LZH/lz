@@ -25,8 +25,8 @@ const btn_color = '#444444'
 const authors = [
   {
     name: "Your Name",
-    icon: "./icon/junyaohu.jpg",
-    homepage: "https://junyaohu.github.io/",
+    icon: "./icon/lg.png",
+    homepage: "https://bw0-lzh.github.io/",
     address_flag: "1,#"
   },
   {
